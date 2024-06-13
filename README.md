@@ -1,6 +1,6 @@
 # 🏀 NBA Game Outcome Prediction Project
 
-### 📅 Programming For Data Science - June 2024
+### 📅 Statistics - May 2024
 
 Dear Reader,
 
