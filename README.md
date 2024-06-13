@@ -32,4 +32,4 @@ To explore the different approaches, open the Jupyter notebooks in a Python envi
 
 Best regards,
 
-Millan Das, Octave Horlin, Arthur de Leusse, William Peltier & Alexis Vannson
+William Peltier, Millan Das, Octave Horlin, Arthur de Leusse & Alexis Vannson
